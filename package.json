@@ -1,0 +1,13 @@
+{
+  "name": "learning-react",
+  "version": "1.0.0",
+  "description": "Learn React and TypeScript",
+  "private": "true",
+  "scripts": {
+    "install-all": "npm-recursive-install"
+  },
+  "author": "Long way",
+  "devDependencies": {
+    "recursive-install": "1.4.0"
+  }
+}
